@@ -1,3 +1,3 @@
 # CS50
-Bunch of CS50 labs and exercises
-downloaded all labs and no problems set yet
+CS50: Introduction to Computer Science | Harvard University
+downloaded all labs and no problems set
